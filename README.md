@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Me chamo Paulo Cezar sou de Campos do Jordao, SP, Brasil 🇧🇷, sou um estutande e intusiasta buscando aprender sempre masi sobre a area de tecnologia.</p>
+<p align="left">Me chamo Paulo Cezar sou de Campos do Jordao, SP, Brasil 🇧🇷, sou um estutande e intusiasta buscando aprender sempre mais sobre a area de tecnologia.</p>
 
 ###
 
