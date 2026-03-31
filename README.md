@@ -72,13 +72,8 @@ Auxiliei na construção desse website para a matéria de Projeto de Extensão: 
 
 <h2 align="left">Contatos</h2>
 
-<div align="left">
-  <a href="www.linkedin.com/in/paulocezar-pc" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="paulocezarleite91@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
+[![LINKEDIN](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/paulocezar-pc/)
+[![GMAIL](https://skillicons.dev/icons?i=gmail)](mailto:paulocezarleite91@gmail.com) 
 <a href="https://wa.me/5512981641316?text=Oii%20Paulo%2C%20vi%20seu%20perfil%20no%20GitHub">
    <img src="https://www.svgrepo.com/show/349563/whatsapp.svg" width="50" height="50">
 </a>
