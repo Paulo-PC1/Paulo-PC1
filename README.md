@@ -17,6 +17,7 @@ Estudante de Tecnologia em Análise e Desenvolvimento de Sistemas no [Instituto 
 <h3 align="left">Projetos Desenvolvidos</h3>
 
 Auxiliei na construção desse website para a matéria de Projeto de Extensão: [Acessibilidade Digital](https://www.acessibilidadedigital.com.br/)
+Desenvolvi um site simples para a Diciplina de Web1 para testar minhas habilidades [Nossas Receitas](https://nossas-receitas11.netlify.app/)
 
 ###
 
