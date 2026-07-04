@@ -2,7 +2,9 @@
 
 ###
 
-<p align="left">Me chamo Paulo Cezar sou de Campos do Jordao, SP, Brasil 🇧🇷, sou Desenvolvedor Backend, Estutante e Intusiasta buscando aprender sempre mais sobre a area de tecnologia.</p>
+<p align="left">Me chamo Paulo Cezar sou de Campos do Jordao, SP, Brasil 🇧🇷, sou Desenvolvedor Backend.</p>
+
+Estudante de Tecnologia em Análise e Desenvolvimento de Sistemas no [Instituto Federal de Campos do Jordão](https://www.ifspcjo.edu.br/).
 
 ###
 
@@ -11,13 +13,6 @@
 ###
 
 Estudante de Tecnologia em Análise e Desenvolvimento de Sistemas no [Instituto Federal de Campos do Jordão](https://www.ifspcjo.edu.br/).
-
-###
-
-<h3 align="left">Projetos Desenvolvidos</h3>
-
-Auxiliei na construção desse website para a matéria de Projeto de Extensão: [Acessibilidade Digital](https://www.acessibilidadedigital.com.br/)
-Desenvolvi um site simples para a Diciplina de Web1 para testar minhas habilidades [Nossas Receitas](https://nossas-receitas11.netlify.app/)
 
 ###
 
