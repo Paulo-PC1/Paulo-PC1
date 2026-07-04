@@ -2,15 +2,11 @@
 
 ###
 
-<p align="left">Me chamo Paulo Cezar sou de Campos do Jordao, SP, Brasil 🇧🇷, sou Desenvolvedor Backend.</p>
-
-Estudante de Tecnologia em Análise e Desenvolvimento de Sistemas no [Instituto Federal de Campos do Jordão](https://www.ifspcjo.edu.br/).
-
-###
-
 <h2 align="left">Sobre Mim</h2>
 
 ###
+
+<p align="left">Me chamo Paulo Cezar sou de Campos do Jordao, SP, Brasil 🇧🇷, sou Desenvolvedor Backend.</p>
 
 Estudante de Tecnologia em Análise e Desenvolvimento de Sistemas no [Instituto Federal de Campos do Jordão](https://www.ifspcjo.edu.br/).
 
