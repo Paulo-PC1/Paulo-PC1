@@ -1,82 +1,15 @@
-<h2 align="left">Olá Bem-Vindo ao meu perfil do Github!</h2>
+# 💫 Sobre Mim:
+Me chamo Paulo Cezar sou de Campos do Jordao, SP, Brasil 🇧🇷, sou Desenvolvedor Backend.<br><br>Estudante de Tecnologia em Análise e Desenvolvimento de Sistemas no Instituto Federal de Campos do Jordão.
 
-###
 
-<h2 align="left">Sobre Mim</h2>
+## 🌐 Redes Sociais:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/paulocezar-pc/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:paulocezarleite91@gmail.com) 
 
-###
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white) ![RayLib](https://img.shields.io/badge/RAYLIB-FFFFFF?style=for-the-badge&logo=raylib&logoColor=black) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white) ![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Paulo-PC1&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Paulo-PC1&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Paulo-PC1&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-<p align="left">Me chamo Paulo Cezar sou de Campos do Jordao, SP, Brasil 🇧🇷, sou Desenvolvedor Backend.</p>
-
-Estudante de Tecnologia em Análise e Desenvolvimento de Sistemas no [Instituto Federal de Campos do Jordão](https://www.ifspcjo.edu.br/).
-
-###
-
-<h3 align="left">Tecnologias</h3>
-
-###
-
-<h5 align="left">Linguagens</h5>
-
-###
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-</div>
-
-###
-
-<h5 align="left">Ferramentas</h5>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=qt" height="40" alt="qt logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=spring" height="40" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
-</div>
-
-###
-
-<h2 align="left">Contatos</h2>
-
-[![LINKEDIN](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/paulocezar-pc/)
-[![GMAIL](https://skillicons.dev/icons?i=gmail)](mailto:paulocezarleite91@gmail.com) 
-<a href="https://wa.me/5512981641316?text=Oii%20Paulo%2C%20vi%20seu%20perfil%20no%20GitHub">
-   <img src="https://www.svgrepo.com/show/349563/whatsapp.svg" width="" height="50">
-</a>
-
-<h2 align="left">Meus Status</h2>
-
-###
-
-<div align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Paulo-PC1&radius=16&theme=dracula&area=true&order=5" height="300" alt="activity-graph graph"  />
-  <img src="https://streak-stats.demolab.com?user=Paulo-PC1&locale=pt-br&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
-
-###
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
